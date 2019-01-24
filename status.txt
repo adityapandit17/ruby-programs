@@ -1,0 +1,17 @@
+Status Update 18 january 2019
+
+1) Practiced ruby pattern for loop understanding
+
+2) Learn about ruby object oriented system 
+
+3) Access modifier in ruby 
+
+4) Ruby getter setter method custom method attr_accessor
+
+5) applied method on object and test behavior
+
+6) test object inside class 
+
+7) made er diagram for core ruby task 
+	
+8) made initial structure of code for task in object oriented way
